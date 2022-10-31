@@ -3,3 +3,7 @@ wall of shields
 second commit to next line
 New commit here
 -----------------------------------
+sword and spear
+wall of shields
+second commit to next line
+New commit here
